@@ -5,7 +5,6 @@
 **Engineering non-invasive, lightweight utilities & assistive solutions designed to elevate gaming and system experience.**
 
 [![Website](https://img.shields.io/badge/Official_Site-zeromem.indevs.in-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zeromem.indevs.in/)
-[![GitHub followers](https://img.shields.io/github/followers/ZeroMemInc?style=for-the-badge&color=22c55e&label=Followers)](https://github.com/ZeroMemInc)
 [![Discord Support](https://img.shields.io/badge/Support-Discord_24%2F7-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://zeromem.indevs.in/)
 
 </div>
