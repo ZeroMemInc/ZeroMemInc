@@ -13,7 +13,7 @@
 
 ### 🌟 About ZeroMem Studio
 
-**ZeroMem Studio** is a digital software lab committed to crafting clean, high-performance, and non-invasive utilities. Our philosophy centers on enhancing user responsiveness, reducing input latency, and solving network & accessibility friction without tampering with application internals or game files.
+**ZeroMem Studio** is a digital software lab committed to crafting clean, high-performance, and non-invasive utilities. Our philosophy centers on enhancing user experience without tampering with application internals or game files.
 
 > *"Performance, stability, and zero intrusive footprints."*
 
